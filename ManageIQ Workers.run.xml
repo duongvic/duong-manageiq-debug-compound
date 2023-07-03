@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ManageIQ Workers" type="CompoundRunConfigurationType">
+    <toRun name="Development: manageiq" type="RailsRunConfigurationType" />
+    <toRun name="MiqGenericWorker" type="RubyRunConfigurationType" />
+    <toRun name="MiqPriorityWorker" type="RubyRunConfigurationType" />
+    <toRun name="MiqReportingWorker" type="RubyRunConfigurationType" />
+    <method v="2" />
+  </configuration>
+</component>
